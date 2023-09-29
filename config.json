@@ -1,1 +1,3 @@
-[{"title":"Ehliyet Soruları","drawable":"","submenu":"","tabs":[{"title":"","image":"","provider":"wordpress","arguments":["",""]}],"iap":false}]
+[{"title":"Anasayfa","drawable":"https://app.ehliyet.io/wp-content/uploads/2023/09/100.png","submenu":"Menü","tabs":[{"title":"","image":"","provider":"webview","arguments":["https://app.ehliyet.io/"]}],"iap":false},{"title":"Denemeler","drawable":"","submenu":"","tabs":[{"title":"","image":"","provider":"webview","arguments":["https://app.ehliyet.io/ozel-denemeler/"]}],"iap":false},{"title":"Bir rica","drawable":"","submenu":"","tabs":[{"title":"","image":"","provider":"webview","arguments":["https://app.ehliyet.io/bir-rica/"]}],"iap":false}]
+
+[{"title":"Ehliyet Soruları","image":"","provider":"webview","arguments":["https://app.ehliyet.io"]}]
